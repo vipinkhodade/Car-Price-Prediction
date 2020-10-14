@@ -6,7 +6,10 @@
 
 • If you are searching for Code, Algorithms used and Accuracy of the model.. you won't find it here. Click on the link mentioned below : https://github.com/vipinkhodade/Car-Price-Prediction 
 
-© 2020 GitHub, Inc.
-
 **Images**
+
 ![Demo1](https://user-images.githubusercontent.com/64624006/96019682-7eb44e00-0e6a-11eb-9d06-b4a090d8c3ad.png)
+![Demo2](https://user-images.githubusercontent.com/64624006/96019830-b9b68180-0e6a-11eb-949a-7b3e6794131e.png)
+![Demo3](https://user-images.githubusercontent.com/64624006/96019854-c044f900-0e6a-11eb-9ee5-c08fc80be52a.png)
+
+© 2020 GitHub, Inc.
