@@ -8,7 +8,7 @@
 
 **Images**
 
-<img src="https://user-images.githubusercontent.com/64624006/96019682-7eb44e00-0e6a-11eb-9d06-b4a090d8c3ad.png" width="200" height="400" />
+<img src="https://user-images.githubusercontent.com/64624006/96019682-7eb44e00-0e6a-11eb-9d06-b4a090d8c3ad.png" width="400" height="200" />
 
 ![Demo1]( =250x250)
 ![Demo2](https://user-images.githubusercontent.com/64624006/96019830-b9b68180-0e6a-11eb-949a-7b3e6794131e.png)
