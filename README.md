@@ -8,7 +8,7 @@
 
 **Images**
 
-<img src="https://user-images.githubusercontent.com/64624006/96019682-7eb44e00-0e6a-11eb-9d06-b4a090d8c3ad.png" width="600" height="400" />
+<img src="https://user-images.githubusercontent.com/64624006/96019682-7eb44e00-0e6a-11eb-9d06-b4a090d8c3ad.png" width="800" height="500" />
 
 <img src="https://user-images.githubusercontent.com/64624006/96019830-b9b68180-0e6a-11eb-949a-7b3e6794131e.png" width="600" height="500" />
 
