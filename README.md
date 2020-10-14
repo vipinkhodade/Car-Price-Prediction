@@ -12,6 +12,6 @@
 
 <img src="https://user-images.githubusercontent.com/64624006/96019830-b9b68180-0e6a-11eb-949a-7b3e6794131e.png" width="800" height="500" />
 
-<img src="https://user-images.githubusercontent.com/64624006/96019854-c044f900-0e6a-11eb-9ee5-c08fc80be52a.png" width="800" height="500" align="centre />
+<img src="https://user-images.githubusercontent.com/64624006/96019854-c044f900-0e6a-11eb-9ee5-c08fc80be52a.png" width="800" height="500" align="center" />
 
 © 2020 GitHub, Inc.
